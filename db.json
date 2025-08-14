@@ -1,0 +1,220 @@
+{
+  "menuItems": [
+    {
+      "id": "1",
+      "name": "Iced Vanilla Latte",
+      "category": "Drinks",
+      "price": 3500,
+      "available": true,
+      "image": "https://picsum.photos/seed/latte/300/200",
+      "description": "Chilled espresso with vanilla and milk."
+    },
+    {
+      "id": "2",
+      "name": "Chicken Panini",
+      "category": "Food",
+      "price": 5500,
+      "available": true,
+      "image": "https://picsum.photos/seed/panini/300/200",
+      "description": "Grilled panini with chicken, cheese, and pesto."
+    },
+    {
+      "id": "3",
+      "name": "Blueberry Muffin",
+      "category": "Dessert",
+      "price": 2500,
+      "available": false,
+      "image": "https://picsum.photos/seed/muffin/300/200",
+      "description": "Soft muffin bursting with blueberries."
+    },
+    {
+      "id": "4",
+      "name": "Cappuccino",
+      "category": "Drinks",
+      "price": 3000,
+      "available": true,
+      "image": "https://picsum.photos/seed/cappuccino/300/200",
+      "description": "Espresso topped with steamed milk foam."
+    },
+    {
+      "id": "5",
+      "name": "Veggie Wrap",
+      "category": "Food",
+      "price": 4800,
+      "available": true,
+      "image": "https://picsum.photos/seed/wrap/300/200",
+      "description": "Fresh vegetables wrapped in soft tortilla."
+    },
+    {
+      "id": "6",
+      "name": "Chocolate Brownie",
+      "category": "Dessert",
+      "price": 2200,
+      "available": true,
+      "image": "https://picsum.photos/seed/brownie/300/200",
+      "description": "Rich chocolate brownie with a soft center."
+    },
+    {
+      "id": "7",
+      "name": "Strawberry Smoothie",
+      "category": "Drinks",
+      "price": 4000,
+      "available": false,
+      "image": "https://picsum.photos/seed/smoothie/300/200",
+      "description": "Refreshing smoothie made with fresh strawberries."
+    },
+    {
+      "id": "8",
+      "name": "Grilled Cheese Sandwich",
+      "category": "Food",
+      "price": 3500,
+      "available": true,
+      "image": "https://picsum.photos/seed/grilledcheese/300/200",
+      "description": "Classic melted cheese on toasted bread."
+    },
+    {
+      "id": "9",
+      "name": "Lemon Tart",
+      "category": "Dessert",
+      "price": 2700,
+      "available": true,
+      "image": "https://picsum.photos/seed/lemontart/300/200",
+      "description": "Tangy lemon filling in a crisp pastry shell."
+    },
+    {
+      "id": "10",
+      "name": "Hot Chocolate",
+      "category": "Drinks",
+      "price": 3200,
+      "available": true,
+      "image": "https://picsum.photos/seed/hotchocolate/300/200",
+      "description": "Creamy hot cocoa topped with whipped cream."
+    },
+    {
+      "id": "a741",
+      "name": "DFVSV",
+      "category": "Dessert",
+      "price": "33333",
+      "image": "3FGV",
+      "description": "VDBB",
+      "available": true
+    },
+    {
+      "id": "4133",
+      "name": "",
+      "category": "Drinks",
+      "price": "",
+      "image": "",
+      "description": "",
+      "available": true
+    },
+    {
+      "id": "368b",
+      "name": "fgdg",
+      "category": "Drinks",
+      "price": "444",
+      "image": "4hgjghfdg",
+      "description": "hhfggf",
+      "available": true
+    },
+    {
+      "id": "42c7",
+      "name": "fgdg",
+      "category": "Drinks",
+      "price": "444",
+      "image": "4hgjghfdg",
+      "description": "hhfggf",
+      "available": true
+    },
+    {
+      "id": "44b0",
+      "name": "fgdg",
+      "category": "Drinks",
+      "price": "444",
+      "image": "4hgjghfdg",
+      "description": "done",
+      "available": true
+    },
+    {
+      "id": "de67",
+      "name": "fgdg",
+      "category": "Drinks",
+      "price": "444",
+      "image": "4hgjghfdg",
+      "description": "done",
+      "available": true
+    },
+    {
+      "id": "b24e",
+      "name": "thfffff",
+      "category": "Drinks",
+      "price": "32423",
+      "image": "dsfbfdb",
+      "description": "svvf",
+      "available": true
+    },
+    {
+      "id": "ac76",
+      "name": "thfffff",
+      "category": "Drinks",
+      "price": "32423",
+      "image": "dsfbfdb",
+      "description": "svvf",
+      "available": true
+    },
+    {
+      "id": "87fe",
+      "name": "thfffff",
+      "category": "Drinks",
+      "price": "32423",
+      "image": "dsfbfdb",
+      "description": "svvfsvsv",
+      "available": true
+    },
+    {
+      "id": "742f",
+      "name": "Alloo",
+      "category": "Drinks",
+      "price": "23456",
+      "image": "345678",
+      "description": "234567",
+      "available": true
+    },
+    {
+      "id": "1d8c",
+      "name": "Alloo",
+      "category": "Drinks",
+      "price": "23456",
+      "image": "https://picsum.photos/seed/hotchocolate/300/200",
+      "description": "234567",
+      "available": true
+    },
+    {
+      "id": "c313",
+      "name": "Alloo",
+      "category": "Drinks",
+      "price": "23456",
+      "image": "https://picsum.photos/seed/hotchocolate/300/200",
+      "description": "234567",
+      "available": true
+    },
+    {
+      "id": "e669",
+      "name": "gdg",
+      "category": "",
+      "price": "4356",
+      "image": "dsfbgnhm",
+      "description": "cvdbfng",
+      "available": true
+    },
+    {
+      "id": "bcc7",
+      "name": "fvgfh",
+      "category": "Food",
+      "price": "43556",
+      "image": "345",
+      "description": "53453",
+      "available": true
+    }
+  ]
+}
